@@ -1,0 +1,5 @@
+﻿name: BewusstloseAPI
+authors: [BewUssTlos, Yxns]
+version: 1.0
+database: true
+main: de.bewusstlos.api.BewusstloseAPI
