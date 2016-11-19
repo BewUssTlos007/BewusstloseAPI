@@ -97,5 +97,8 @@ public class BewusstloseAPI extends JavaPlugin {
 		}
 		return false;
 	}
+	private void method() {
+		
+	}
 
 }
